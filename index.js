@@ -10,10 +10,6 @@ const users = []
 app.get('/users',(req,res)=>{
     res.json(users)
 })
-// app.get('/',(req,res)=>{
-//     res.sendFile(__dirname + '/src/index.html')
-//     res.status(200)
-// })
 
 app.post('/register',async(req,res)=>{
     try {
