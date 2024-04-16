@@ -1,6 +1,3 @@
-Certainly! Below is a basic README template for the GitHub repository "User-Auth":
-
----
 
 # User Authentication System
 
@@ -50,7 +47,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the sections or add more details as needed!
